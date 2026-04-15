@@ -122,3 +122,30 @@ For questions about canon: check `lore/open-questions.md` first. If the answer i
 
 *Last simulation run: April 15, 2026 (v3, 200 ticks)*
 *Last updated by: KiloClaw CEO*
+
+---
+
+## Latest: v5 Parallel Batch Run (April 15, 2026)
+
+**Build status:** Fixed after 22-commit merge (8dd605b pushed)
+
+**New features from merge:**
+- Parallel tick execution (feature/parallel-tick-batching)
+- SQLite persistence (better-sqlite3)
+- Local GGUF inference (node-llama-cpp)
+- WebSocket events (BeatfallServer)
+
+**Build errors fixed:**
+- Duplicate GraphOperation export in core/index.ts
+- Wrong switch discriminant (op.type → op.op) in VersionedGraph.ts
+- Snake_case case values (add_node → addNode) in applyBatch
+- Merge conflict markers in CharacterManager.ts
+- Missing @types/better-sqlite3
+
+**New issues filed:**
+- #120: Weather cycles every 20 ticks (mood-driven, not time-driven)
+- #121: Merge left unresolved conflicts and type errors
+- #122: 22 seed characters inaccessible via CLI
+
+**Simulation results:** Weather still loops. This is the root issue. CEO directive #1 in effect.
+
