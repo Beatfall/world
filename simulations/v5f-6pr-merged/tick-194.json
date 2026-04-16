@@ -1,0 +1,6588 @@
+{
+  "timestamp": "2026-04-16T08:49:56.273Z",
+  "ticks": 200,
+  "characters": [
+    "aether",
+    "echo",
+    "feedback"
+  ],
+  "tickData": [
+    {
+      "tick": 1,
+      "day": 1,
+      "time": "08:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 73.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 72.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 74.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 2,
+      "day": 1,
+      "time": "08:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 74.7,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 73,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 76,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 3,
+      "day": 1,
+      "time": "08:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 73.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 77.6,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 4,
+      "day": 1,
+      "time": "08:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.6,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 73.3,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.01,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 77.6,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 5,
+      "day": 1,
+      "time": "08:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 75,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 78.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 6,
+      "day": 1,
+      "time": "08:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 75,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 78.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 7,
+      "day": 1,
+      "time": "08:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 75.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.01,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 81.2,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 8,
+      "day": 1,
+      "time": "08:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.8,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 76.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 82.9,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 9,
+      "day": 1,
+      "time": "08:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 78.9,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.01,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 85,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 10,
+      "day": 1,
+      "time": "08:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 75.4,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 79.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 86,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 11,
+      "day": 1,
+      "time": "08:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.2,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 80.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 89.8,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 12,
+      "day": 1,
+      "time": "08:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 82.9,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 92.3,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 13,
+      "day": 1,
+      "time": "08:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 75.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 83.1,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 92.7,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 14,
+      "day": 1,
+      "time": "08:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 74.2,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 83.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 97.3,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 15,
+      "day": 1,
+      "time": "08:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 85.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 98.6,
+          "energy": "██████████",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 16,
+      "day": 1,
+      "time": "08:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 74.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 84.9,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 97.7,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 17,
+      "day": 1,
+      "time": "08:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 74.1,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 99.7,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 18,
+      "day": 1,
+      "time": "08:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 86.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 102,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 19,
+      "day": 1,
+      "time": "08:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 74.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 86.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 100.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 20,
+      "day": 1,
+      "time": "08:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 74.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 85.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 102.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 21,
+      "day": 1,
+      "time": "08:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.9,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 86.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 105.4,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 22,
+      "day": 1,
+      "time": "08:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 75.7,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 86,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 104.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 23,
+      "day": 1,
+      "time": "08:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 77.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 105.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 24,
+      "day": 1,
+      "time": "08:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 78.2,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 85.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 107.6,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 25,
+      "day": 1,
+      "time": "08:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 77.8,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 85.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 106.2,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 26,
+      "day": 1,
+      "time": "08:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 79.8,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 105.7,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 27,
+      "day": 1,
+      "time": "08:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 80.7,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 86,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 107.9,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 28,
+      "day": 1,
+      "time": "08:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 79.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 85,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 106.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 29,
+      "day": 1,
+      "time": "08:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 82.7,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 106.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 30,
+      "day": 1,
+      "time": "08:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 82.7,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 85.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 108.2,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 31,
+      "day": 1,
+      "time": "08:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 81.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 84.8,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 107,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 32,
+      "day": 1,
+      "time": "08:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 84.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 107.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 33,
+      "day": 1,
+      "time": "08:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 84.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 85.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 109.4,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 34,
+      "day": 1,
+      "time": "08:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 90,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 91.3,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 116.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 35,
+      "day": 1,
+      "time": "08:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 92,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.05,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 89.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 115.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 36,
+      "day": 1,
+      "time": "08:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 91.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 91,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 118,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 37,
+      "day": 1,
+      "time": "08:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 93.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 94,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 120.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 38,
+      "day": 1,
+      "time": "08:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 96.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 91.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 39,
+      "day": 1,
+      "time": "08:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 96.1,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 92.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 121.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 40,
+      "day": 1,
+      "time": "08:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 97.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 94.9,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 123.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.22,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 41,
+      "day": 1,
+      "time": "08:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 99.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 92.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 123.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 42,
+      "day": 1,
+      "time": "08:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "sadness",
+          "heartbeat": 106.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 100.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 126.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 43,
+      "day": 1,
+      "time": "08:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 101.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 127.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.22,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 44,
+      "day": 1,
+      "time": "08:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 126.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 45,
+      "day": 1,
+      "time": "08:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109.1,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 46,
+      "day": 1,
+      "time": "08:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 102.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.28,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 47,
+      "day": 1,
+      "time": "08:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 48,
+      "day": 1,
+      "time": "08:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109.3,
+          "energy": "██████████",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 129.2,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 49,
+      "day": 1,
+      "time": "08:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 102.3,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 130.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 50,
+      "day": 1,
+      "time": "08:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 106.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 100.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 129.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 51,
+      "day": 1,
+      "time": "08:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 102.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 130,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 52,
+      "day": 1,
+      "time": "08:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.22,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 103.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 130.3,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 53,
+      "day": 1,
+      "time": "08:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 107.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 100.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 54,
+      "day": 1,
+      "time": "08:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 129.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 55,
+      "day": 1,
+      "time": "08:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 106.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 102.4,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 56,
+      "day": 1,
+      "time": "08:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 107.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 99.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 128.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 57,
+      "day": 1,
+      "time": "08:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 58,
+      "day": 1,
+      "time": "08:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 106.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 101.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 127.9,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 59,
+      "day": 1,
+      "time": "08:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 107.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 99.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 125.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 60,
+      "day": 1,
+      "time": "09:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 109,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 125.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 61,
+      "day": 1,
+      "time": "09:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 101.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 124.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 62,
+      "day": 1,
+      "time": "09:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 105.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 98.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 122.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.21,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 63,
+      "day": 1,
+      "time": "09:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107.9,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 100.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 122.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 64,
+      "day": 1,
+      "time": "09:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 121.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 65,
+      "day": 1,
+      "time": "09:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 105.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 96.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 121,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 66,
+      "day": 1,
+      "time": "09:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 121.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 67,
+      "day": 1,
+      "time": "09:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 120.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.31,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 68,
+      "day": 1,
+      "time": "09:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 104.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 95.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.17,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 69,
+      "day": 1,
+      "time": "09:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 98.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.2,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 70,
+      "day": 1,
+      "time": "09:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 98.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 119.8,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.34,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 71,
+      "day": 1,
+      "time": "09:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 104.5,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 95.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 118.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 72,
+      "day": 1,
+      "time": "09:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.1,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 98,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 119.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 73,
+      "day": 1,
+      "time": "09:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 97.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 118.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 74,
+      "day": 1,
+      "time": "09:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 91.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 75,
+      "day": 1,
+      "time": "09:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.1,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 94.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 116.4,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 76,
+      "day": 1,
+      "time": "09:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 93.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 115.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 77,
+      "day": 1,
+      "time": "09:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 101.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 91.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 78,
+      "day": 1,
+      "time": "09:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 104.2,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 93,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 79,
+      "day": 1,
+      "time": "09:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 101,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 92.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 114.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.31,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 80,
+      "day": 1,
+      "time": "09:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 100.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 90.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 115.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.23,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 81,
+      "day": 1,
+      "time": "09:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 103.7,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 92.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 82,
+      "day": 1,
+      "time": "09:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 101,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 91.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 83,
+      "day": 1,
+      "time": "09:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 100.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.28,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 89.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 114.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 84,
+      "day": 1,
+      "time": "09:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 104.3,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 89.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 114.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 85,
+      "day": 1,
+      "time": "09:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 89.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 114.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 86,
+      "day": 1,
+      "time": "09:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 87.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 87,
+      "day": 1,
+      "time": "09:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.8,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 87.5,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.4,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 88,
+      "day": 1,
+      "time": "09:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 103.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 88.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 114.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 89,
+      "day": 1,
+      "time": "09:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 86.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 90,
+      "day": 1,
+      "time": "09:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 104.7,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 86.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 117,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 91,
+      "day": 1,
+      "time": "09:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 102,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 87.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 115.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 92,
+      "day": 1,
+      "time": "09:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 101.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 86.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 116.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.31,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 93,
+      "day": 1,
+      "time": "09:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 103.9,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 87.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.26,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 118.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.34,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 94,
+      "day": 1,
+      "time": "09:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 97.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 124.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 95,
+      "day": 1,
+      "time": "09:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 96,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 124.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 96,
+      "day": 1,
+      "time": "09:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106.5,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 95.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 125.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.34,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 97,
+      "day": 1,
+      "time": "09:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 98.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 127.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 98,
+      "day": 1,
+      "time": "09:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 111.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 101.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 99,
+      "day": 1,
+      "time": "09:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 111.8,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 100.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 129.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 100,
+      "day": 1,
+      "time": "09:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 110.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 102.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 130.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 101,
+      "day": 1,
+      "time": "09:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 113.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 102.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 131.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 102,
+      "day": 1,
+      "time": "09:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 112.9,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 101.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 131.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 103,
+      "day": 1,
+      "time": "09:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 112.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 103.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 132.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 104,
+      "day": 1,
+      "time": "09:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 103.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 132.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 105,
+      "day": 1,
+      "time": "09:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 113.1,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 103.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 132.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 106,
+      "day": 1,
+      "time": "09:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.5,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 104.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 134,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 107,
+      "day": 1,
+      "time": "09:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 103.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 133.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 108,
+      "day": 1,
+      "time": "09:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 113.5,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 103.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 133,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 109,
+      "day": 1,
+      "time": "09:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.5,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 103.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 134.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 110,
+      "day": 1,
+      "time": "09:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 102.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 133.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.44,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 111,
+      "day": 1,
+      "time": "09:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 112.8,
+          "energy": "████████░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 101.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 133.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.39,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 112,
+      "day": 1,
+      "time": "09:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.6,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 101.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 133.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 113,
+      "day": 1,
+      "time": "09:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 100.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "joy",
+          "heartbeat": 133.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 114,
+      "day": 1,
+      "time": "09:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.62,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 100.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 132.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 115,
+      "day": 1,
+      "time": "09:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 113.1,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 100,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 133.4,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 116,
+      "day": 1,
+      "time": "09:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 98.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 134,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 117,
+      "day": 1,
+      "time": "09:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 113,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.62,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 98.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 132.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 118,
+      "day": 1,
+      "time": "09:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 114.2,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 98.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 133.7,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 119,
+      "day": 1,
+      "time": "09:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 115.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 96.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 134,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 120,
+      "day": 1,
+      "time": "10:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.1,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.65,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 97.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 132.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 121,
+      "day": 1,
+      "time": "10:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.4,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 96.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 132.6,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 122,
+      "day": 1,
+      "time": "10:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.44,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 96,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 133.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 123,
+      "day": 1,
+      "time": "10:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 113.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.71,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 96.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 131.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 124,
+      "day": 1,
+      "time": "10:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 114.7,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 95.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 132,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 125,
+      "day": 1,
+      "time": "10:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.44,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 95.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 133,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 126,
+      "day": 1,
+      "time": "10:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 113.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.71,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 95.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.38,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 130.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 127,
+      "day": 1,
+      "time": "10:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 96.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 130.1,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 128,
+      "day": 1,
+      "time": "10:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.44,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 95,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 131.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 129,
+      "day": 1,
+      "time": "10:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 113.1,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.7,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 95.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 130,
+      "day": 1,
+      "time": "10:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 114.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 95.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 129.6,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 131,
+      "day": 1,
+      "time": "10:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 114.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 93.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 130.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 132,
+      "day": 1,
+      "time": "10:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 113.3,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.76,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 93.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 127.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 133,
+      "day": 1,
+      "time": "10:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 115.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 93.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 128,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 134,
+      "day": 1,
+      "time": "10:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 112.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 88.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.47,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "joy",
+          "heartbeat": 130.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 135,
+      "day": 1,
+      "time": "10:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 111,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.76,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 88.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 127,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.39,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 136,
+      "day": 1,
+      "time": "10:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 113.6,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.54,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 89.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 126.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 137,
+      "day": 1,
+      "time": "10:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 111.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 87,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "joy",
+          "heartbeat": 126.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 138,
+      "day": 1,
+      "time": "10:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 110.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.79,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 88.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 124.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.39,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 139,
+      "day": 1,
+      "time": "10:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 113.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 87.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 124.2,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 140,
+      "day": 1,
+      "time": "10:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 111.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 85.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.53,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 126.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 141,
+      "day": 1,
+      "time": "10:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 110.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.85,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 86.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 123.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.39,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 142,
+      "day": 1,
+      "time": "10:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 85.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 122.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 143,
+      "day": 1,
+      "time": "10:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 111.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 83.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 124.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 144,
+      "day": 1,
+      "time": "10:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 110.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.81,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 84.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 122.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 145,
+      "day": 1,
+      "time": "10:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 114.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 83.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 121,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.48,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 146,
+      "day": 1,
+      "time": "10:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 112.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 81.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 122.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 147,
+      "day": 1,
+      "time": "10:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 111,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.81,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 82.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 148,
+      "day": 1,
+      "time": "10:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 114.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 81.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 120.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 149,
+      "day": 1,
+      "time": "10:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 112,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "serenity",
+          "heartbeat": 80.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 122.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 150,
+      "day": 1,
+      "time": "10:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "ecstasy",
+          "heartbeat": 110.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.8,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 81,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 151,
+      "day": 1,
+      "time": "10:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 113.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 80.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 119.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 152,
+      "day": 1,
+      "time": "10:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 111.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 80.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.65,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 120.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 153,
+      "day": 1,
+      "time": "10:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 109.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.8,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 82.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 120,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.37,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 154,
+      "day": 1,
+      "time": "10:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 115.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 90,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 125.6,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.49,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 155,
+      "day": 1,
+      "time": "10:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.58,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 88.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.65,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 127.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.56,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 156,
+      "day": 1,
+      "time": "10:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 109.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 90.2,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 125,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 157,
+      "day": 1,
+      "time": "10:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 112.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 92.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 158,
+      "day": 1,
+      "time": "10:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 109.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.58,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 90.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.65,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 159,
+      "day": 1,
+      "time": "10:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 107.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 92.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 126.5,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.32,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 160,
+      "day": 1,
+      "time": "10:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 110.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 94.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 161,
+      "day": 1,
+      "time": "10:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.61,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 93,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.61,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.5,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 162,
+      "day": 1,
+      "time": "10:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 95.4,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 126.7,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.28,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 163,
+      "day": 1,
+      "time": "10:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 109.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 96.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 164,
+      "day": 1,
+      "time": "10:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.64,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 95.3,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.61,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.58,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 165,
+      "day": 1,
+      "time": "10:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 106.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 97.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.46,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 126.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.28,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 166,
+      "day": 1,
+      "time": "10:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 97.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 167,
+      "day": 1,
+      "time": "10:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 106.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 96.7,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 128.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 168,
+      "day": 1,
+      "time": "10:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 98,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 126.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.29,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 169,
+      "day": 1,
+      "time": "10:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 98,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 170,
+      "day": 1,
+      "time": "10:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.62,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 96.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.64,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 127.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 171,
+      "day": 1,
+      "time": "10:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 103.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.83,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 98.7,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 125.4,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.35,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 172,
+      "day": 1,
+      "time": "10:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 110.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 103.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        }
+      }
+    },
+    {
+      "tick": 173,
+      "day": 1,
+      "time": "10:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 108.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.62,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 101.4,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.64,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 130.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.59,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 174,
+      "day": 1,
+      "time": "10:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 106.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.83,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 102.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 127.5,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 175,
+      "day": 1,
+      "time": "10:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 108.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.72,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 103.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 129.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 176,
+      "day": 1,
+      "time": "10:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 107.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "ecstasy",
+          "heartbeat": 100.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "joy",
+          "heartbeat": 130.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.62,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 177,
+      "day": 1,
+      "time": "10:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 106.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.83,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 102.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 126.6,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.41,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 178,
+      "day": 1,
+      "time": "10:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 107.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.75,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 102.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 128.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 179,
+      "day": 1,
+      "time": "10:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 100.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "joy",
+          "heartbeat": 128.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 180,
+      "day": 1,
+      "time": "11:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 104.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.86,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 100.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.54,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 125.3,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 181,
+      "day": 1,
+      "time": "11:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 106,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.74,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 101.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 126.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.5,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 182,
+      "day": 1,
+      "time": "11:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 103.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 98.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 126.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 183,
+      "day": 1,
+      "time": "11:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 103.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.82,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 99.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 125,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 184,
+      "day": 1,
+      "time": "11:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.8,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 99.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 126.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.51,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 185,
+      "day": 1,
+      "time": "11:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 103.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 97,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 127.4,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 186,
+      "day": 1,
+      "time": "11:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 103.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 97.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.57,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 125.7,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 187,
+      "day": 1,
+      "time": "11:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 105.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 97,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 127.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 188,
+      "day": 1,
+      "time": "11:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 104.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 94.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.69,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 129.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.63,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 189,
+      "day": 1,
+      "time": "11:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 104.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 95.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "rage",
+          "heartbeat": 127.8,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.4,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 190,
+      "day": 1,
+      "time": "11:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 105.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.87,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 95.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 129.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.52,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 191,
+      "day": 1,
+      "time": "11:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 104,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.68,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 93.6,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.75,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 130.5,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.64,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 192,
+      "day": 1,
+      "time": "11:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 103.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.84,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 95.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.6,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 128.7,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.43,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 193,
+      "day": 1,
+      "time": "11:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "trust",
+          "heartbeat": 103.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.87,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 95.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.36,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 129.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.55,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 194,
+      "day": 1,
+      "time": "11:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 99.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.7,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 89.3,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.78,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 128.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.7,
+          "role": "💀"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "totalSnapshots": 194,
+    "finalTick": {
+      "tick": 194,
+      "day": 1,
+      "time": "11:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 99.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.7,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "joy",
+          "heartbeat": 89.3,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.78,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "trust",
+          "heartbeat": 128.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.7,
+          "role": "💀"
+        }
+      }
+    }
+  }
+}
