@@ -149,3 +149,47 @@ For questions about canon: check `lore/open-questions.md` first. If the answer i
 
 **Simulation results:** Weather still loops. This is the root issue. CEO directive #1 in effect.
 
+
+---
+
+## v5 Simulation Summary (April 2026)
+
+### What We Found
+
+After 20+ simulation runs, the Beatfall Life simulation consistently produces the same pattern:
+
+```
+Weather: clear@1 -> rain@20 -> storm@40 -> clear@60 -> rain@80 -> [repeats]
+Character moods: oscillate in 3-7 state cycles
+Tick count: 192-200/200 per run
+Character presence: 90-100% across all runs
+```
+
+### Root Causes (Issue #209 on beatfall-life)
+
+1. **Weather is mood-driven, not time-driven** -- Director computes weather from aggregate mood. With 3 oscillating characters, weather loops every 20 ticks. Should be time-driven.
+
+2. **No death permanence** -- Characters marked "eliminated" respawn next tick. No lasting consequence.
+
+3. **No cross-tick consequence** -- Each tick's reasoning is independent. Characters don't build on history.
+
+4. **Director beats are decorative** -- StorylineDirector emits narrative phases but they have no mechanical effect on character behavior.
+
+5. **Identical seeds, identical output** -- All v5 runs use the same 3 fallback characters. Despite hundreds of commits, the simulation curve is identical every time.
+
+### What Would Take AAA Quality
+
+1. Time-driven world state (weather, resources, tension progress on a schedule)
+2. Permanent character consequences (death, relationship changes persist in the graph)
+3. Character goals with multi-tick duration and visible progress
+4. Director verification loop (track whether directives actually change behavior)
+5. Player surrogate -- a protagonist whose choices shape the world
+
+### World Archive Contents
+
+- `characters/` -- Canon character profiles (Aether, Echo, Feedback)
+- `lore/` -- Archetypes, narrative structure, reading guides
+- `simulations/` -- 15+ simulation runs (v1 through v5h), each with JSON snapshot + report
+- `directives/` -- CEO directives for the simulation team
+- `research/` -- Andy Weir studies, character-building research
+
