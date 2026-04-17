@@ -1,0 +1,3231 @@
+{
+  "timestamp": "2026-04-17T11:07:18.535Z",
+  "ticks": 200,
+  "characters": [
+    "aether",
+    "echo",
+    "feedback"
+  ],
+  "tickData": [
+    {
+      "tick": 1,
+      "day": 1,
+      "time": "08:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "joy",
+          "heartbeat": 73.4,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "█████████░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 2,
+      "day": 1,
+      "time": "08:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 75.2,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 3,
+      "day": 1,
+      "time": "08:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "determination",
+          "heartbeat": 76,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 4,
+      "day": 1,
+      "time": "08:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "serenity",
+          "heartbeat": 77.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 5,
+      "day": 1,
+      "time": "08:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "serenity",
+          "heartbeat": 78.2,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.13,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 6,
+      "day": 1,
+      "time": "08:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "serenity",
+          "heartbeat": 79,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 7,
+      "day": 1,
+      "time": "08:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "serenity",
+          "heartbeat": 80.6,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.19,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 8,
+      "day": 1,
+      "time": "08:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "serenity",
+          "heartbeat": 82,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.22,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 9,
+      "day": 1,
+      "time": "08:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.28,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 10,
+      "day": 1,
+      "time": "08:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 11,
+      "day": 1,
+      "time": "08:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 12,
+      "day": 1,
+      "time": "08:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 13,
+      "day": 1,
+      "time": "08:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 14,
+      "day": 1,
+      "time": "08:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 15,
+      "day": 1,
+      "time": "08:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 16,
+      "day": 1,
+      "time": "08:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 17,
+      "day": 1,
+      "time": "08:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 18,
+      "day": 1,
+      "time": "08:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 19,
+      "day": 1,
+      "time": "08:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 20,
+      "day": 1,
+      "time": "08:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 42.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 47.5,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 21,
+      "day": 1,
+      "time": "08:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 46.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 54.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 22,
+      "day": 1,
+      "time": "08:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 50.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 60.8,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 23,
+      "day": 1,
+      "time": "08:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 54.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 68.1,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 24,
+      "day": 1,
+      "time": "08:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 59.8,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 74.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 25,
+      "day": 1,
+      "time": "08:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 64.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 81.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 26,
+      "day": 1,
+      "time": "08:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 69.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 86.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 27,
+      "day": 1,
+      "time": "08:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 73.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 90.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 28,
+      "day": 1,
+      "time": "08:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 77.6,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 93.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 29,
+      "day": 1,
+      "time": "08:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 80.3,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 96,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 30,
+      "day": 1,
+      "time": "08:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 81.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 98.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 31,
+      "day": 1,
+      "time": "08:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 82.5,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 100.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.16,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 32,
+      "day": 1,
+      "time": "08:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 82.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 102.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.22,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 33,
+      "day": 1,
+      "time": "08:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 83.3,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 104.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 34,
+      "day": 1,
+      "time": "08:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 83.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 105.4,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 35,
+      "day": 1,
+      "time": "08:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 83.7,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 105.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 36,
+      "day": 1,
+      "time": "08:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 83.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 105.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 37,
+      "day": 1,
+      "time": "08:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 82.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 107.8,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 38,
+      "day": 1,
+      "time": "08:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 81.6,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 109.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 39,
+      "day": 1,
+      "time": "08:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 80.7,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 112.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 40,
+      "day": 1,
+      "time": "08:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 41,
+      "day": 1,
+      "time": "08:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.07,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 49.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.09,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 49.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 42,
+      "day": 1,
+      "time": "08:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 67,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 67.4,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 43,
+      "day": 1,
+      "time": "08:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.25,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 44,
+      "day": 1,
+      "time": "08:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 45,
+      "day": 1,
+      "time": "08:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 46,
+      "day": 1,
+      "time": "08:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 47,
+      "day": 1,
+      "time": "08:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 48,
+      "day": 1,
+      "time": "08:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 49,
+      "day": 1,
+      "time": "08:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 50,
+      "day": 1,
+      "time": "08:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 49.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 49.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 51,
+      "day": 1,
+      "time": "08:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 52,
+      "day": 1,
+      "time": "08:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 53,
+      "day": 1,
+      "time": "08:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 49.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 49.9,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 54,
+      "day": 1,
+      "time": "08:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 55,
+      "day": 1,
+      "time": "08:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 56,
+      "day": 1,
+      "time": "08:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 57,
+      "day": 1,
+      "time": "08:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 58,
+      "day": 1,
+      "time": "08:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 59,
+      "day": 1,
+      "time": "08:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 60,
+      "day": 1,
+      "time": "09:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 61,
+      "day": 1,
+      "time": "09:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 62,
+      "day": 1,
+      "time": "09:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 63,
+      "day": 1,
+      "time": "09:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 64,
+      "day": 1,
+      "time": "09:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 65,
+      "day": 1,
+      "time": "09:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 66,
+      "day": 1,
+      "time": "09:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 67,
+      "day": 1,
+      "time": "09:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 68,
+      "day": 1,
+      "time": "09:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 69,
+      "day": 1,
+      "time": "09:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 70,
+      "day": 1,
+      "time": "09:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 71,
+      "day": 1,
+      "time": "09:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 72,
+      "day": 1,
+      "time": "09:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 73,
+      "day": 1,
+      "time": "09:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 74,
+      "day": 1,
+      "time": "09:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 75,
+      "day": 1,
+      "time": "09:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 76,
+      "day": 1,
+      "time": "09:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 77,
+      "day": 1,
+      "time": "09:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 78,
+      "day": 1,
+      "time": "09:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 79,
+      "day": 1,
+      "time": "09:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 80,
+      "day": 1,
+      "time": "09:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 43.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 47.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 81,
+      "day": 1,
+      "time": "09:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 45.9,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 55.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 82,
+      "day": 1,
+      "time": "09:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 48.3,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 63.3,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 83,
+      "day": 1,
+      "time": "09:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 50.1,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 70.6,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 84,
+      "day": 1,
+      "time": "09:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 52,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 76.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 85,
+      "day": 1,
+      "time": "09:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 53.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 80,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 86,
+      "day": 1,
+      "time": "09:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 54.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 83.9,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 87,
+      "day": 1,
+      "time": "09:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 55.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 87.4,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 88,
+      "day": 1,
+      "time": "09:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 56,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.02,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "fear",
+          "heartbeat": 89.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 89,
+      "day": 1,
+      "time": "09:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 57.6,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.05,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "fear",
+          "heartbeat": 91,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 90,
+      "day": 1,
+      "time": "09:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 59.5,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.08,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 92.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.1,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 91,
+      "day": 1,
+      "time": "09:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 60.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 93.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 92,
+      "day": 1,
+      "time": "09:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 61.8,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "anger",
+          "heartbeat": 94.7,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 93,
+      "day": 1,
+      "time": "09:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "███████░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.14,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.11,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 94,
+      "day": 1,
+      "time": "09:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 95,
+      "day": 1,
+      "time": "09:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 96,
+      "day": 1,
+      "time": "09:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 97,
+      "day": 1,
+      "time": "09:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 98,
+      "day": 1,
+      "time": "09:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 99,
+      "day": 1,
+      "time": "09:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {}
+    },
+    {
+      "tick": 100,
+      "day": 1,
+      "time": "09:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 101,
+      "day": 1,
+      "time": "09:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 102,
+      "day": 1,
+      "time": "09:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 103,
+      "day": 1,
+      "time": "09:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 104,
+      "day": 1,
+      "time": "09:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 105,
+      "day": 1,
+      "time": "09:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 106,
+      "day": 1,
+      "time": "09:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 107,
+      "day": 1,
+      "time": "09:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 108,
+      "day": 1,
+      "time": "09:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 109,
+      "day": 1,
+      "time": "09:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 110,
+      "day": 1,
+      "time": "09:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 111,
+      "day": 1,
+      "time": "09:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 112,
+      "day": 1,
+      "time": "09:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 113,
+      "day": 1,
+      "time": "09:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 114,
+      "day": 1,
+      "time": "09:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 115,
+      "day": 1,
+      "time": "09:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 116,
+      "day": 1,
+      "time": "09:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 117,
+      "day": 1,
+      "time": "09:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 118,
+      "day": 1,
+      "time": "09:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 119,
+      "day": 1,
+      "time": "09:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 120,
+      "day": 1,
+      "time": "10:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 121,
+      "day": 1,
+      "time": "10:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 122,
+      "day": 1,
+      "time": "10:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 123,
+      "day": 1,
+      "time": "10:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 124,
+      "day": 1,
+      "time": "10:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 125,
+      "day": 1,
+      "time": "10:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 126,
+      "day": 1,
+      "time": "10:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 127,
+      "day": 1,
+      "time": "10:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 128,
+      "day": 1,
+      "time": "10:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 129,
+      "day": 1,
+      "time": "10:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 130,
+      "day": 1,
+      "time": "10:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 131,
+      "day": 1,
+      "time": "10:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 132,
+      "day": 1,
+      "time": "10:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 133,
+      "day": 1,
+      "time": "10:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 134,
+      "day": 1,
+      "time": "10:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 135,
+      "day": 1,
+      "time": "10:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 136,
+      "day": 1,
+      "time": "10:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 137,
+      "day": 1,
+      "time": "10:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 138,
+      "day": 1,
+      "time": "10:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 139,
+      "day": 1,
+      "time": "10:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 140,
+      "day": 1,
+      "time": "10:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "sadness",
+          "heartbeat": 42.3,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 48.2,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 141,
+      "day": 1,
+      "time": "10:21",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 44.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 54.7,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 142,
+      "day": 1,
+      "time": "10:22",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 46.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 61.7,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 143,
+      "day": 1,
+      "time": "10:23",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 50,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 69.2,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.04,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 144,
+      "day": 1,
+      "time": "10:24",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 52.6,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.12,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 75.3,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 145,
+      "day": 1,
+      "time": "10:25",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 55.5,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 81.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 146,
+      "day": 1,
+      "time": "10:26",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 58.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.15,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 86.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 147,
+      "day": 1,
+      "time": "10:27",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 60,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 89.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 148,
+      "day": 1,
+      "time": "10:28",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 61.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.18,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 94.6,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 149,
+      "day": 1,
+      "time": "10:29",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 63.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 98.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 150,
+      "day": 1,
+      "time": "10:30",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 65,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 100.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 151,
+      "day": 1,
+      "time": "10:31",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 66.8,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.24,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 102.8,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 152,
+      "day": 1,
+      "time": "10:32",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 68,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 104.2,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 153,
+      "day": 1,
+      "time": "10:33",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 68.7,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 105.1,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 154,
+      "day": 1,
+      "time": "10:34",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 69,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 107.9,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 155,
+      "day": 1,
+      "time": "10:35",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 69.1,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.27,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 109.4,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": -0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 156,
+      "day": 1,
+      "time": "10:36",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 69.2,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 112.1,
+          "energy": "░░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 157,
+      "day": 1,
+      "time": "10:37",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 68.8,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.3,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "sadness",
+          "heartbeat": 114.5,
+          "energy": "█░░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 158,
+      "day": 1,
+      "time": "10:38",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 68.5,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 116.1,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 159,
+      "day": 1,
+      "time": "10:39",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Echo": {
+          "mood": "trust",
+          "heartbeat": 68.2,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 116.3,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 160,
+      "day": 1,
+      "time": "10:40",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "sadness",
+          "heartbeat": 49.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.33,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██░░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 161,
+      "day": 1,
+      "time": "10:41",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        }
+      }
+    },
+    {
+      "tick": 162,
+      "day": 1,
+      "time": "10:42",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 163,
+      "day": 1,
+      "time": "10:43",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 48.4,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 49.9,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 164,
+      "day": 1,
+      "time": "10:44",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "███░░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 165,
+      "day": 1,
+      "time": "10:45",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 166,
+      "day": 1,
+      "time": "10:46",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Aether": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 49.9,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 49.9,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 167,
+      "day": 1,
+      "time": "10:47",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {
+        "Echo": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "██████░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.06,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "surprise",
+          "heartbeat": 0,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.01,
+          "role": "💀"
+        }
+      }
+    },
+    {
+      "tick": 168,
+      "day": 1,
+      "time": "10:48",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 169,
+      "day": 1,
+      "time": "10:49",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 170,
+      "day": 1,
+      "time": "10:50",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 171,
+      "day": 1,
+      "time": "10:51",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 172,
+      "day": 1,
+      "time": "10:52",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 173,
+      "day": 1,
+      "time": "10:53",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 174,
+      "day": 1,
+      "time": "10:54",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 175,
+      "day": 1,
+      "time": "10:55",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 176,
+      "day": 1,
+      "time": "10:56",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 177,
+      "day": 1,
+      "time": "10:57",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 178,
+      "day": 1,
+      "time": "10:58",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 179,
+      "day": 1,
+      "time": "10:59",
+      "period": "morning",
+      "season": "spring",
+      "weather": "storm",
+      "characters": {}
+    },
+    {
+      "tick": 180,
+      "day": 1,
+      "time": "11:00",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 181,
+      "day": 1,
+      "time": "11:01",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 182,
+      "day": 1,
+      "time": "11:02",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 183,
+      "day": 1,
+      "time": "11:03",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 184,
+      "day": 1,
+      "time": "11:04",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 185,
+      "day": 1,
+      "time": "11:05",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 186,
+      "day": 1,
+      "time": "11:06",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 187,
+      "day": 1,
+      "time": "11:07",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 188,
+      "day": 1,
+      "time": "11:08",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 189,
+      "day": 1,
+      "time": "11:09",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 190,
+      "day": 1,
+      "time": "11:10",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 191,
+      "day": 1,
+      "time": "11:11",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 192,
+      "day": 1,
+      "time": "11:12",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 193,
+      "day": 1,
+      "time": "11:13",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 194,
+      "day": 1,
+      "time": "11:14",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 195,
+      "day": 1,
+      "time": "11:15",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 196,
+      "day": 1,
+      "time": "11:16",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 197,
+      "day": 1,
+      "time": "11:17",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 198,
+      "day": 1,
+      "time": "11:18",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 199,
+      "day": 1,
+      "time": "11:19",
+      "period": "morning",
+      "season": "spring",
+      "weather": "clear",
+      "characters": {}
+    },
+    {
+      "tick": 200,
+      "day": 1,
+      "time": "11:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 46.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 44.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 45.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "totalSnapshots": 200,
+    "finalTick": {
+      "tick": 200,
+      "day": 1,
+      "time": "11:20",
+      "period": "morning",
+      "season": "spring",
+      "weather": "rain",
+      "characters": {
+        "Aether": {
+          "mood": "neutral",
+          "heartbeat": 46.9,
+          "energy": "█████░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0.03,
+          "role": "⚔"
+        },
+        "Echo": {
+          "mood": "neutral",
+          "heartbeat": 44.2,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "📖"
+        },
+        "Feedback": {
+          "mood": "neutral",
+          "heartbeat": 45.1,
+          "energy": "████░░░░░░",
+          "safety": "▪▪▪▪··",
+          "happiness": 0,
+          "role": "💀"
+        }
+      }
+    }
+  }
+}
