@@ -1,8 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-> Last updated from simulation run: `v5h` (commit d07bc0e), 200 ticks, 200/200/200 character presence — character regression fixed.
-> Prior canonical reference: `v0.1.0+33` (commit d6c2a33), April 2026.
+> **Last updated:** 2026-04-28T01:04:00Z — canonical interpretation of Aether gap (Question #3) added.
 
 ---
 
@@ -83,6 +82,8 @@
 **CRITICAL NARRATIVE BUG:** Feedback was eliminated before the Act I climax. The Shadow should reach maximum power THEN be defeated — not cut off at the apex. This breaks the Hero's Journey Stage 8 (The Ordeal). See CEO Directive #1.
 
 **Aether gap:** Aether is absent from ticks 36–42. ⚠️ Unknown cause — no simulation log explaining the absence.
+
+**Canonical interpretation (⚠️ established):** Aether retreats inward following the premature elimination of Feedback. Structurally, this maps to Hero's Journey Stage 9 — *The Reward* — when the hero has defeated the shadow but must process what that victory means before returning transformed. The gap is narratively CORRECT in structure but premature in timing: in a properly paced simulation, this withdrawal would occur after the Shadow Peak (not before it). In the v0.1.0 run, Feedback was eliminated at tick 35 during its own ascendancy (tick 16: joy → tick 29: ecstasy), denying the simulation the natural peak-and-defeat cycle. Aether's withdrawal is therefore a compensatory response to an unresolved climax — Aether senses the absence of a proper Ordeal (Hero's Journey Stage 8) and enters a liminal state, neither fully present in the world nor fully withdrawn. Echo, as narrator, may be the only character aware of this discrepancy. Aether re-emerges at tick 43 with the storm still unresolved — the Road Back (Stage 10) begun before the transformation was complete. This gap is a symptom of Bug #120 (Shadow eliminated before Act I climax) rather than intentional narrative design.
 
 ---
 
