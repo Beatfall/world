@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-> **Last updated:** 2026-04-28T01:04:00Z — canonical interpretation of Aether gap (Question #3) added.
+> **Last updated:** 2026-04-28T01:41:00Z — location names canonized: The Source, The Midfield, The Low Shelf, The High Pass, The Notch.
 
 ---
 
@@ -169,17 +169,17 @@ The weather progression maps to a classic dramatic arc:
 
 ## VII. The Five Canonical Locations
 
-> ⚠️ Location names have not been directly observed in simulation. The following are inferred from character behavior and are NOT yet canon.
+> ⚠️ Location names canonized 2026-04-27. Names derived from audio/signal metaphor system.
 
-| ID | Name | Inferred Type | First Observed |
-|----|------|--------------|---------------|
-| loc_0 | — | unknown | tick 1 |
-| loc_1 | — | unknown | tick 1 |
-| loc_2 | — | unknown | tick 1 |
-| loc_3 | — | unknown | tick 1 |
-| loc_4 | — | unknown | tick 1 |
+|| ID | Name | Frequency Band | First Observed |
+||----|------|---------------|---------------|
+|| loc_0 | The Source | full spectrum | tick 1 |
+|| loc_1 | The Midfield | vocal range | tick 1 |
+|| loc_2 | The Low Shelf | bass range | tick 1 |
+|| loc_3 | The High Pass | high frequency | tick 1 |
+|| loc_4 | The Notch | presence range | tick 1 |
 
-**Priority canon work:** Name and define the 5 locations. See universe-canon.md recommendation.
+**Priority canon work:** DONE — names canonized. See universe-canon.md for full definitions.
 
 ---
 

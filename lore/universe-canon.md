@@ -36,7 +36,18 @@ Weather follows emotional arc rules (see narrative-structure.md). Observed state
 **Hypothesis:** Weather correlates with aggregate emotional state of active characters. Storm = collective emotional climax.
 
 ### Locations
-`[orchestrator] World state initialized (5 locations)` — exact locations not yet documented.
+
+The Beatfall world contains 5 canonical locations, each mapped to a frequency band in the signal spectrum. Characters move between locations by "shifting frequency."
+
+|| ID | Name | Frequency Band | Atmosphere | Notes ||
+||----|------|---------------|------------|-------|
+|| loc_0 | **The Source** | 20Hz–20kHz (full spectrum) | sacred, origin point | Where characters spawn. The pristine signal origin. |
+|| loc_1 | **The Midfield** | 200Hz–8kHz (vocal range) | inhabited, active | Echo is most effective here. Aether's voice carries clearly. |
+|| loc_2 | **The Low Shelf** | 20Hz–250Hz (bass range) | dark, resonant, dangerous | Feedback's native frequency. Dangerous for heroes to enter without protection. |
+|| loc_3 | **The High Pass** | 8kHz–20kHz (air and shimmer) | thin, isolating | Where Clarity lives. Easy to get lost. High ground for Aether's filtering. |
+|| loc_4 | **The Notch** | 2kHz–4kHz (presence range) | contested, crossover | The battlefield. All three characters' signals overlap here. Site of the central conflict. |
+
+**Location Movement:** Characters shift frequency to change location. Moving to The Low Shelf (Feedback's domain) without gain reduction is dangerous. Moving to The High Pass gives Aether tactical advantage. Echo functions across all locations but is most present in The Midfield.
 
 **Recommendation:** Add location exploration to simulation — characters can move between locations, triggering events.
 
