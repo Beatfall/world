@@ -1,7 +1,8 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-> Last updated from simulation run: `v0.1.0+33` (commit d6c2a33), April 2026.
+> Last updated from simulation run: `v5h` (commit d07bc0e), 200 ticks, 200/200/200 character presence — character regression fixed.
+> Prior canonical reference: `v0.1.0+33` (commit d6c2a33), April 2026.
 
 ---
 
@@ -194,9 +195,9 @@ The weather progression maps to a classic dramatic arc:
 | v5c-action-resolver-fix | — | — | — | — | Fix-focused |
 | v5d-latest | — | — | — | — | Latest version |
 | v5e-pr149-plugin-architecture | — | — | — | — | Plugin architecture |
-| v5f-6pr-merged | — | 261 | — | Characters mostly absent | New behavior |
-| v5g-main | — | 200 | — | 200 ticks captured | — |
-| v5h-5new-commits | d07bc0e | 200 | 200/200/200 | Weather still cycles | From beatfall-life |
+| v5f-6pr-merged | — | 261 | 0/261 | Characters mostly absent — regression | 6 PRs merged (perception, rules, social status, modular prompts, mock inference, graph exporter). New behavior observed. |
+| v5g-main | — | 200 | low | Characters mostly absent | Regression continued from v5f. |
+| v5h-5new-commits | d07bc0e | 200 | 200/200/200 ✅ | Weather still cycles, character presence restored | Regression FIXED: MoodGradient conflict resolved, type exports fixed, SimulationAuditor field added. 5 new commits: mood gradient trend analysis, relationship context provider, WorldDiffTool, social status manager, BatchInferenceEngine mock. Bug #120 persists. |
 | v0.1.0 | 1234435 | 200 | 3 | Aether joy / Echo trust / Feedback sadness arc | First tagged release |
 | v0.1.0+33 | d6c2a33 | 200 | 3 | Same as v0.1.0 with 33 additional commits | Most recent |
 
