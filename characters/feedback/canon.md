@@ -55,7 +55,18 @@ The most interesting version of Feedback isn't "defeated villain" — it's "engi
 
 This is Feedback discovering the truth — not being TOLD the truth by the hero, but LEARNING it through the process.
 
-## Open Questions
+## Simulation Arc (v1 vs v2 vs v3 vs v5)
+
+| Metric | v1 | v2 | v3 | v5d/v5e |
+|--------|----|----|----|---------|
+| Presence | 195/200 | 200/200 | 200/200 | 200/200 |
+| Final mood | — | sadness | ? | sadness |
+| Final happiness | — | low | ? | low |
+| Eliminated | tick 35 | tick 176 | tick 97 | tick 35 (Bug #120) |
+| Respawned | no | tick 196 | no | no |
+| Notes | elim before peak | cyclical arc | shadow suppressed | premature elim persists |
+
+**Key finding:** v2 (200-tick run) is the only simulation where Feedback was eliminated AFTER a natural peak-and-defeat cycle — eliminated at tick 176, respawned at tick 196. This is the closest to a properly earned Shadow arc. v1 and v5 both eliminate at tick 35, before Feedback can descend from its peak. v3 eliminated at tick 97, before any climax at all. The redemption arc described in CEO Directive #1 is only achievable if Feedback survives past its peak.
 
 - What is Feedback's frequency when it's not distorting?
 - Does Feedback have a memory of what the signal sounded like before it started distorting?

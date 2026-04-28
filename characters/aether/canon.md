@@ -46,14 +46,17 @@ This lie is tested when:
 
 **The truth:** "Perfection is brittle. What works is building harmony with what you can't eliminate."
 
-## Simulation Arc (v1 vs v2 vs v3)
+## Simulation Arc (v1 vs v2 vs v3 vs v5)
 
-| Metric | v1 | v2 | v3 |
-|--------|----|----|----|
-| Presence | 191/200 | 200/200 | 200/200 |
-| Final mood | ecstasy | joy | ? |
-| Final happiness | 1.0 | 0.99 | ? |
-| Despawns | tick 36-42 | none | none |
+| Metric | v1 | v2 | v3 | v5d/v5e |
+|--------|----|----|----|---------|
+| Presence | 191/200 | 200/200 | 200/200 | 200/200 |
+| Final mood | ecstasy | joy | ? | joy |
+| Final happiness | 1.0 | 0.99 | ? | 0.99 |
+| Despawns | tick 36-42 | none | none | none |
+| Notes | shadow elim @35 | shadow elim @176 | shadow elim @97 | baseline; same arc as v0.1.0+33 |
+
+**v3 gap:** v3 showed 200/200 presence with no despawn — Aether gap was a v1 artifact. However, v3 still shows "?" for final mood/happiness because no v3 run result was committed to lore. v5d/v5e (d6c2a33, 200 ticks) confirmed: Aether reaches joy at storm climax (0.99 happiness), matching v1's arc structure but without the 7-tick absence gap.
 
 ## Open Questions
 
