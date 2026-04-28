@@ -218,7 +218,7 @@ These events are referenced in the narrative but have no confirmed tick:
 5. **The 24-hour cycle** — What happens after tick 1440? Does the world reset?
 6. **Seasonal shift** — Seasons are defined but never observed. When does spring → summer occur?
 7. **All-is-lost beat** — When should the "all is lost" moment fire in a properly structured simulation?
-   - ⚠️ Per narrative-structure.md: should fire at tick ~90–95 in a 100-tick run, just before climax. In v0.1.0 it did NOT fire because Shadow was already gone.
+   - ⚠️ Per narrative-structure.md: should fire at tick ~90–95 in a 100-tick run, just before climax. In v0.1.0 it did NOT fire because Shadow was already gone. See Section IX.
 8. **Resolution** — What does a proper resolution look like? Has any simulation ever reached it?
    - ❌ No simulation has reached resolution. Bug #120 (premature Shadow elimination) blocks the complete narrative arc.
 
@@ -233,8 +233,8 @@ These events are referenced in the narrative but have no confirmed tick:
 
 ### For Next Simulation Run (v0.2.0 Target)
 
-| Directive | Priority | Status | Key Spec | Engineering Owner | File | Commit |
-|-----------|----------|--------|----------|-------------------|------|--------|
+| Directive | Priority | Status | Key Spec | Owner | File | Commit |
+|-----------|----------|--------|----------|-------|------|--------|
 | #1 Shadow Anti-Suppression | CRITICAL | Draft complete | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life | `directives/beats/BL-2026-04-28-directive-shadow-anti-suppression.md` | `0b4d5d0` |
 | #2 Problem-First State | CRITICAL | Draft complete | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life | `directives/beats/2026-04-28-directive-problem-state.md` | `9176681` |
 | #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life | `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` | `9bf60cc` |
