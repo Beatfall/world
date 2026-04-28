@@ -210,7 +210,7 @@ The distillation/ folder has teacher templates and Ollama support. Complete the 
 | #5 Echo Observation Logging | HIGH | Not started |
 | #6 Extended Duration | MEDIUM | Not started |
 | #7 Run Metadata | MEDIUM | Not started |
-| #8 Beat Completion Report | MEDIUM | Not started |
+| #8 Beat Completion Report | MEDIUM | **Draft complete** — `directives/beats/2026-04-28-directive-beat-completion-report.md` |
 | #9 Characters Repo | Deferred | Blocked on dependency |
 | #10 BT Integration | Deferred | Not started |
 | #11 Distillation Pipeline | Deferred | Partial |
