@@ -239,7 +239,7 @@ These events are referenced in the narrative but have no confirmed tick:
 | #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life | `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` | `9bf60cc` |
 | #8 Beat Completion Report | MEDIUM | Draft complete | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life | `directives/beats/2026-04-28-directive-beat-completion-report.md` | `see CEO-directives` |
 
-**Draft complete:** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata — `directives/beats/2026-04-28-directive-run-metadata.md`)
+**Draft complete:** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata — `directives/CEO-directives.md#directive-7-simulation-run-metadata`)
 
 ### Verification Criterion for v0.2.0
 All four targeted directives must show:
