@@ -59,7 +59,7 @@ Echo's defining moment in any simulation should be the **storage crisis** — wh
 
 ## Simulation Arc (v1 vs v2 vs v3)
 
-|| Metric | v1 | v2 | v3 |
+||| Metric | v1 | v2 | v3 |
 |--------|-------|----|----|----|
 | Final mood | trust | happiness rising | trust |
 | Final happiness | — | 0.60 | — |
