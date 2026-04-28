@@ -195,8 +195,8 @@ The weather progression maps to a classic dramatic arc:
 | v5-parallel-batch | — | — | — | — | Parallel simulation |
 | v5b-hierarchical-planning | — | — | — | — | Planning-focused |
 | v5c-action-resolver-fix | — | — | — | — | Fix-focused |
-| v5d-latest | — | — | — | — | Latest version |
-| v5e-pr149-plugin-architecture | — | — | — | — | Plugin architecture |
+| v5d-latest | d6c2a33 | 200 | 3 | Aether joy / Echo trust / Feedback sadness arc | Same arc as v0.1.0 — first tagged release baseline |
+| v5e-pr149-plugin-architecture | d6c2a33 | 200 | 3 | Same as v0.1.0+33 | 33 additional commits over v0.1.0; most recent simulation run |
 | v5f-6pr-merged | bdb8fea | 194 | 193/194 Aether, 194/194 Echo, 188/194 Feedback | Characters mostly present — Aether 99%, Echo 100%, Feedback 97% | 6 PRs merged (perception, rules, social status, modular prompts, mock inference, graph exporter). New behavior observed. |
 | v5g-main | 2616027 | 200 | 18/200 Aether (9%), 73/200 Echo (37%), 73/200 Feedback (37%) | Characters mostly absent — major regression | Regression from v5f: events broadcaster, social status, perception decoupling affecting character spawning/lifecycle. Aether most affected. |
 | v5h-5new-commits | d07bc0e | 200 | 200/200 Aether, 200/200 Echo, 200/200 Feedback | Weather still cycles every ~20 ticks; character presence restored to 100% | Regression FIXED (character presence): MoodGradient conflict resolved, type exports fixed, SimulationAuditor field added. 5 new commits: mood gradient trend analysis, relationship context provider, WorldDiffTool, social status manager, BatchInferenceEngine mock. Bug #120 persists — weather mood-driven, not time-driven. |
