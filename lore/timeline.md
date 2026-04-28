@@ -209,13 +209,17 @@ The weather progression maps to a classic dramatic arc:
 These events are referenced in the narrative but have no confirmed tick:
 
 1. **Echo's first active guidance** — When (if ever) does Echo actively mentor Aether?
+   - ⚠️ Per dual-narrator model (BL-2026-04-28): Echo handles micro-narrative (per-tick); Tempo handles arc-guidance. Echo may not be designed to mentor — this question may need reframing.
 2. **Feedback's origin** — What event "created" Feedback? Was it a corruption of an existing signal or something new?
-3. **Aether's absence cause** — Why did Aether vanish from ticks 36–42?
+3. **Aether's absence cause** — ~~Why did Aether vanish from ticks 36–42?~~ ✅ **RESOLVED** (tick 36–42 gap canonized as Hero's Journey Stage 9: Aether retreats following premature Shadow elimination. See Section III. Root cause: Bug #120.)
 4. **The second elimination** — If Feedback respawned in v2 (tick 196), can eliminated characters return?
+   - ⚠️ **PARTIALLY OBSERVED:** v2 (200-tick run) showed Feedback eliminated at tick 176, respawned at tick 196. Confirms respawn is possible. Conditions for respawn unknown.
 5. **The 24-hour cycle** — What happens after tick 1440? Does the world reset?
 6. **Seasonal shift** — Seasons are defined but never observed. When does spring → summer occur?
 7. **All-is-lost beat** — When should the "all is lost" moment fire in a properly structured simulation?
+   - ⚠️ Per narrative-structure.md: should fire at tick ~90–95 in a 100-tick run, just before climax. In v0.1.0 it did NOT fire because Shadow was already gone.
 8. **Resolution** — What does a proper resolution look like? Has any simulation ever reached it?
+   - ❌ No simulation has reached resolution. Bug #120 (premature Shadow elimination) blocks the complete narrative arc.
 
 ---
 
