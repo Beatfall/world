@@ -34,7 +34,7 @@
 ### NPCs (6)
 | ID | Name | Archetype | Voice Direction |
 |----|------|---------|---------------|
-| chord | Chord | The Harmonizer | " Alone, I'm noise. Together, I'm music." |
+| chord | Chord | The Harmonizer | "Alone, I'm noise. Together, I'm music." |
 | decibel | Decibel | The Heavy Hitter | "If it hurts to hear, I'm doing it right." |
 | pitch | Pitch | The Merchant | "Everything has a price. Name your frequency." |
 | bassline | Bassline | The Undercurrent | "You don't hear me. You feel me. That's how it should be." |
