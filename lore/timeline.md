@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-> **Last updated:** 2026-04-28T11:21:00Z — Directive #6 Draft complete status corrected in Section X
+> **Last updated:** 2026-04-28T12:03:00Z — Directive #7 (Run Metadata) Draft complete; Section X updated
 
 ---
 
