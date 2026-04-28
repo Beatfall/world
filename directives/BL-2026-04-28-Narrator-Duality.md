@@ -3,7 +3,7 @@
 **Project:** beatfall-life (world simulation engine)
 **Type:** World-Building Resolution
 **Priority:** Low
-**Status:** Draft
+**Status:** ✅ RESOLVED — dual-narrator model canonized (Echo: CLI/micro, Tempo: server/macro)
 **Date:** 2026-04-28
 **Applies to:** @beatfall-life/core, @beatfall-life/rules, simulation director
 
