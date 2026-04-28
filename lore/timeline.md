@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-|> **Last updated:** 2026-04-28T16:20:00Z — Beat Completion Assessment table enriched with tick-accurate beat annotations
+|> **Last updated:** 2026-04-29T01:15:00Z — bug registry created; Section VIII cross-reference added
 
 ---
 
@@ -186,6 +186,8 @@ The weather progression maps to a classic dramatic arc:
 
 ## VIII. Simulation Run Catalog
 
+> **Bug Registry:** Canonical bug definitions (Bug #120, #119, #110) are maintained in `lore/bugs.md`.
+
 | Run | Commit | Ticks | Characters | Outcome | Notes |
 |-----|--------|-------|-----------|---------|-------|
 | v1-basic | — | 100 | 3 | Feedback eliminated tick 35 | Too early |
@@ -253,4 +255,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-28T16:20:00Z*
+*Last updated: 2026-04-29T01:15:00Z*
