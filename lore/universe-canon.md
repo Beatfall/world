@@ -136,24 +136,31 @@ voice: "Too loud—TOO LOUD— Gain rising. No control. Break it or it breaks yo
 
 ## V. The Beatfall Metaphor System
 
-Beatfall maps musical/audio concepts to narrative concepts:
+Beatfall maps musical/audio concepts to narrative concepts. These metaphors inform how characters act, how locations feel, and how weather/environment responds.
 
-| Audio Concept | Beatfall Meaning |
-|--------------|-----------------|
-| **Signal** | Truth, clarity, aligned intention |
-| **Noise** | Chaos, distortion, misinformation |
-| **Rhythm** | Order, timing, fate/destiny |
-| **The Drop** | Climax, transformation point |
-| **Bass** | Foundation, grounding force (Feedback = bass hacker) |
-| **Echo** | Reverberation, delayed response, memory |
-| **Aether** | The fifth element (classical), celestial/ethereal quality |
-| **Harmony** | Agreement, peace, aligned frequencies |
-| **Feedback** | Audio feedback loop — runaway self-amplification |
-| **Pitch** | Emotional register, moral alignment |
-| **Gain** | Volume, energy, intensity |
-| **Tuning** | Adjustment, alignment, course-correction |
+> **Note:** Echo (narrator), Aether (hero), and Feedback (antagonist) are literal character names — their audio-origin meanings are noted below, but the metaphors apply to the *concepts* they represent in-world.
 
-**Recommendation:** Create a **metaphor dictionary** that translates musical terms to in-world concepts and use it to generate richer character actions.
+| Audio Concept | Beatfall Meaning | In-World Example |
+|--------------|-----------------|-----------------|
+| **Signal** | Truth, clarity, aligned intention | Aether's voice lines — clean, directional |
+| **Noise** | Chaos, distortion, misinformation | The absence of clear signal — ambient static |
+| **Rhythm** | Order, timing, fate/destiny | Tick progression, weather phase transitions |
+| **The Drop** | Climax, transformation point | tick 100 storm — the Beatfall moment |
+| **Harmony** | Agreement, peace, aligned frequencies | Characters in resonance; relationship trust |
+| **Dissonance** | Conflict, unresolved tension | Shadow rising; weather shifting toward storm |
+| **Echo** | Reverberation, delayed response, memory | Echo narrates with delay — reconstruction from incomplete data |
+| **Aether** | Celestial/ethereal quality; the fifth element | Aether as spiritual guide — above the frequency wars |
+| **Feedback** | Runaway self-amplification loop | Feedback's volatility — joy→ecstasy→elimination in rapid succession |
+| **Pitch** | Emotional register, moral alignment | Character mood.valence; storm = maximum arousal |
+| **Gain** | Volume, energy, intensity | Mood arousal; weather escalation from clear→storm |
+| **Tuning** | Adjustment, alignment, course-correction | Character relationship repair; problem-solving |
+| **Bass** | Foundation, grounding force | Feedback's native frequency — The Low Shelf (loc_2) |
+| **Midrange** | Presence, vocal clarity | The Midfield (loc_1) — Echo's optimal range |
+| **High Pass** | Clarity, filtering, isolation | The High Pass (loc_3) — Aether's tactical advantage |
+| **Resonance** | Emotional contagion; collective state | Weather driven by aggregate mood across all characters |
+| **Compressor** | Suppression, limiting output | Shadow anti-suppression — preventing premature elimination |
+
+**Usage:** These metaphors should drive richer voice line generation, location description, and event narration. When Echo observes a scene, the language should invoke audio metaphors. When a character's mood shifts, the language should describe it as a pitch or gain change.
 
 ---
 
