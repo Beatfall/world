@@ -75,7 +75,8 @@ Aether and Feedback are locked in a **frequency war**. Echo observes and records
 | v1 (200 ticks) | Extended run | Full storm climax, all 3 present, proper arc |
 | v2 | Emotional intelligence | Echo oscillates, Feedback cyclical rebirth |
 | v3 | Autonomous relationships | **CRITICAL: Feedback suppressed before ascent** |
-| v4 | Problem-first design | NOT YET RUN — the next required iteration |
+| v4 | Problem-first design | NOT YET RUN — directives #1 and #2 pending implementation |
+| v5d/v5e | Parallel tick batching + GGUF inference | Weather loops every ~20 ticks (Bug #119); Feedback eliminated @tick 35 (Bug #120) |
 
 **The critical finding:** v3's emotional intelligence + relationships system works TOO well. It suppresses the antagonist before the first act climax. This must be fixed.
 
