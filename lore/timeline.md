@@ -223,6 +223,33 @@ These events are referenced in the narrative but have no confirmed tick:
 
 ---
 
+---
+
+## X. Directive Implementation Tracking
+
+> **Purpose:** Track which CEO directives are targeted for the next simulation run and their current engineering status.
+> **Last updated:** 2026-04-28
+
+### For Next Simulation Run (v0.2.0 Target)
+
+| Directive | Priority | Status | Key Spec | Engineering Owner |
+|-----------|----------|--------|----------|-------------------|
+| #1 Shadow Anti-Suppression | CRITICAL | Draft complete | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life |
+| #2 Problem-First State | CRITICAL | Draft complete | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life |
+| #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life |
+| #8 Beat Completion Report | MEDIUM | Draft complete | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life |
+
+**Not started:** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata)
+
+### Verification Criterion for v0.2.0
+All four targeted directives must show:
+- ✅ Feedback present at tick 100 (no premature elimination)
+- ✅ Director beat events visible in tick output (beat-firing log)
+- ✅ Beat completion report generated post-run
+- ✅ Character problem states logged instead of raw mood only
+
+---
+
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
 *Last updated: 2026-04-28*
