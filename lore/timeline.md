@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-|> **Last updated:** 2026-04-28T14:22:00Z — Directive SHA table added to Section X; CEO-directives.md fully consistent
+|> **Last updated:** 2026-04-28T16:20:00Z — Beat Completion Assessment table enriched with tick-accurate beat annotations
 
 ---
 
@@ -108,12 +108,13 @@
 **Beat Completion Assessment:**
 | Beat | Status | Notes |
 |------|--------|-------|
-| inciting-incident | ✅ | Tick ~5 (Aether trust) |
-| first-stakes | ✅ | Tick 14 (Aether serenity) |
-| shadow-rise | ⚠️ | Feedback ascended but was eliminated early |
-| midpoint-reversal | ✅ | Tick 20 (weather shift) |
-| all-is-lost | ❌ | Did not fire properly — shadow already gone |
-| shadow-peak | ❌ | Feedback eliminated at peak, not after descent |
+| inciting-incident | ✅ | Tick 5 (Aether begins oscillating trust/determination — status quo disrupted) |
+| first-stakes | ✅ | Tick 14 (Aether achieves serenity — first emotional peak, stakes become clear) |
+| aether-serenity | ✅ | Tick 14 (Aether's first major mood milestone — maps to Hero's Journey Stage 5 threshold crossing) |
+| shadow-rise | ⚠️ | Tick 16 — Feedback turns to joy, but shadow eliminated before full ascendancy |
+| midpoint-reversal | ✅ | Tick 20 (weather shift to partly_cloudy — external pressure begins) |
+| shadow-peak | ⚠️ | Tick 29 — Feedback reaches ecstasy, but eliminated 6 ticks later BEFORE natural descent |
+| all-is-lost | ❌ | Did not fire — shadow already gone; no moment where victory seemed impossible |
 | beatfall | ✅ | Tick 100 storm climax |
 | resolution | ❌ | Simulation ended without resolution |
 
@@ -252,4 +253,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-28T14:22:00Z*
+*Last updated: 2026-04-28T16:20:00Z*
