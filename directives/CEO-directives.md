@@ -208,7 +208,7 @@ The distillation/ folder has teacher templates and Ollama support. Complete the 
 | #3 Director Beat Injection | HIGH | **Draft complete** — `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` |
 | #4 Voice Line Generation | HIGH | **Draft complete** — `directives/beats/BL-2026-04-28-directive-voice-line-generation.md` |
 | #5 Echo Observation Logging | HIGH | **Draft complete** — `directives/beats/BL-2026-04-28-directive-echo-observation-logging.md` |
-| #6 Extended Duration | MEDIUM | Not started |
+| #6 Extended Duration | MEDIUM | **Draft complete** — `directives/beats/BL-2026-04-28-directive-extended-duration.md` |
 | #7 Run Metadata | MEDIUM | Not started |
 | #8 Beat Completion Report | MEDIUM | **Draft complete** — `directives/beats/2026-04-28-directive-beat-completion-report.md` |
 | #9 Characters Repo | Deferred | Blocked on dependency |
