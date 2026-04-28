@@ -199,7 +199,25 @@ A narrative moment is **earned** when sufficient setup precedes it. In Beatfall:
 
 ---
 
-## VIII. Recommendations
+## VIII. CEO Directive Mapping
+
+> Each narrative recommendation is addressed by a named CEO directive. Engineering owner: **beatfall-life**.
+
+|| Recommendation | Directive | Status | Implementation Owner |
+||----------------|------------|--------|---------------------|
+| Extend simulation to 500+ ticks | **#6 — Extended Duration** | Draft complete | beatfall-life |
+| Delay Shadow's elimination | **#1 — Shadow Anti-Suppression** | Draft complete | beatfall-life |
+| Director tracks & injects beats | **#3 — Director Beat Injection** | Draft complete | beatfall-life |
+| Beat completion report post-run | **#8 — Beat Completion Report** | Draft complete | beatfall-life |
+| Weather mechanically influences mood | **#2 — Problem-First State** | Draft complete | beatfall-life |
+| Echo mentors Aether (active guidance) | **#5 — Echo Observation Logging** | Draft complete | beatfall-life |
+| Echo observes at key moments → insight bonus | **#5 — Echo Observation Logging** | Draft complete | beatfall-life |
+| Character voice lines during events | **#4 — Voice Line Generation** | Draft complete | beatfall-life |
+| Simulation run metadata attached to results | **#7 — Run Metadata** | Draft complete | beatfall-life |
+
+**Verification for v0.2.0:** All directive specs are finalised. Engineering must confirm each directive is implemented and measurable before marking complete.
+
+## IX. Recommendations
 
 1. **Extend simulation to 500+ ticks** — 100 ticks is Act I setup; need Act II escalation and Act III climax
 2. **Delay Feedback's elimination** — let the Shadow descend from ecstasy, then eliminate it when Aether has truly earned the victory
