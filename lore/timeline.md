@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-> **Last updated:** 2026-04-28T12:03:00Z — Directive #7 (Run Metadata) Draft complete; Section X updated
+|> **Last updated:** 2026-04-28T14:22:00Z — Directive SHA table added to Section X; CEO-directives.md fully consistent
 
 ---
 
@@ -232,12 +232,12 @@ These events are referenced in the narrative but have no confirmed tick:
 
 ### For Next Simulation Run (v0.2.0 Target)
 
-| Directive | Priority | Status | Key Spec | Engineering Owner |
-|-----------|----------|--------|----------|-------------------|
-| #1 Shadow Anti-Suppression | CRITICAL | Draft complete | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life |
-| #2 Problem-First State | CRITICAL | Draft complete | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life |
-| #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life |
-| #8 Beat Completion Report | MEDIUM | Draft complete | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life |
+| Directive | Priority | Status | Key Spec | Engineering Owner | File | Commit |
+|-----------|----------|--------|----------|-------------------|------|--------|
+| #1 Shadow Anti-Suppression | CRITICAL | Draft complete | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life | `directives/beats/BL-2026-04-28-directive-shadow-anti-suppression.md` | `0b4d5d0` |
+| #2 Problem-First State | CRITICAL | Draft complete | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life | `directives/beats/2026-04-28-directive-problem-state.md` | `9176681` |
+| #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life | `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` | `9bf60cc` |
+| #8 Beat Completion Report | MEDIUM | Draft complete | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life | `directives/beats/2026-04-28-directive-beat-completion-report.md` | `see CEO-directives` |
 
 **Draft complete:** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata — `directives/beats/2026-04-28-directive-run-metadata.md`)
 
@@ -252,4 +252,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-28*
+*Last updated: 2026-04-28T14:22:00Z*
