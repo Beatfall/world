@@ -196,9 +196,9 @@ The weather progression maps to a classic dramatic arc:
 | v5c-action-resolver-fix | — | — | — | — | Fix-focused |
 | v5d-latest | — | — | — | — | Latest version |
 | v5e-pr149-plugin-architecture | — | — | — | — | Plugin architecture |
-| v5f-6pr-merged | — | 261 | 0/261 | Characters mostly absent — regression | 6 PRs merged (perception, rules, social status, modular prompts, mock inference, graph exporter). New behavior observed. |
-| v5g-main | — | 200 | low | Characters mostly absent | Regression continued from v5f. |
-| v5h-5new-commits | d07bc0e | 200 | 200/200/200 ✅ | Weather still cycles, character presence restored | Regression FIXED: MoodGradient conflict resolved, type exports fixed, SimulationAuditor field added. 5 new commits: mood gradient trend analysis, relationship context provider, WorldDiffTool, social status manager, BatchInferenceEngine mock. Bug #120 persists. |
+| v5f-6pr-merged | bdb8fea | 194 | 193/194 Aether, 194/194 Echo, 188/194 Feedback | Characters mostly present — Aether 99%, Echo 100%, Feedback 97% | 6 PRs merged (perception, rules, social status, modular prompts, mock inference, graph exporter). New behavior observed. |
+| v5g-main | 2616027 | 200 | 18/200 Aether (9%), 73/200 Echo (37%), 73/200 Feedback (37%) | Characters mostly absent — major regression | Regression from v5f: events broadcaster, social status, perception decoupling affecting character spawning/lifecycle. Aether most affected. |
+| v5h-5new-commits | d07bc0e | 200 | 200/200 Aether, 200/200 Echo, 200/200 Feedback | Weather still cycles every ~20 ticks; character presence restored to 100% | Regression FIXED (character presence): MoodGradient conflict resolved, type exports fixed, SimulationAuditor field added. 5 new commits: mood gradient trend analysis, relationship context provider, WorldDiffTool, social status manager, BatchInferenceEngine mock. Bug #120 persists — weather mood-driven, not time-driven. |
 | v0.1.0 | 1234435 | 200 | 3 | Aether joy / Echo trust / Feedback sadness arc | First tagged release |
 | v0.1.0+33 | d6c2a33 | 200 | 3 | Same as v0.1.0 with 33 additional commits | Most recent |
 
