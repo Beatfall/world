@@ -41,6 +41,14 @@ Echo doesn't narrate — Echo RECORDS. The voice is clinical precision:
 
 **The truth:** "Records are never neutral. Recording IS taking a position. The question is which position to take."
 
+---
+
+## The Shadow Echo Avoids
+
+Echo's **Lie** is the inverse of Feedback's: where Feedback believes *being loud* shields it from consequences, Echo believes *being silent* (i.e., merely recording) shields it from responsibility.
+
+But recording requires choosing what to preserve and what to delete. Echo's silence IS a choice. The storage crisis forces this into the open: at capacity, Echo must choose, and that choice is an act.
+
 ## Key Insight from v2 Simulation
 
 In v2, Echo developed emotional oscillation via contagion — alternating between neutral and trust in early ticks. This was NOT in the original design. It emerged from emotional intelligence. This is significant: **Echo is more emotionally responsive than anticipated.**
@@ -48,6 +56,16 @@ In v2, Echo developed emotional oscillation via contagion — alternating betwee
 ## The Storage Crisis
 
 Echo's defining moment in any simulation should be the **storage crisis** — when storage runs out and Echo is FORCED to choose what to record and what to delete. This is Echo's equivalent of Aether's "harmonize or die" moment.
+
+## Simulation Arc (v1 vs v2 vs v3)
+
+|| Metric | v1 | v2 | v3 |
+|--------|-------|----|----|----|
+| Final mood | trust | happiness rising | trust |
+| Final happiness | — | 0.60 | — |
+| Respawns | — | tick 196 | — |
+
+**v2 key finding:** Echo developed emotional oscillation via emotional intelligence contagion — alternating between neutral and trust in early ticks. This was NOT in the original design. Echo's observation/witnessing behavior is itself an emotional act.
 
 ## Open Questions
 
