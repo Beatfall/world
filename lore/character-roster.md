@@ -54,11 +54,14 @@
 
 ---
 
-## Echo — The Outlier
+## Echo — The Outlier (RESOLVED)
 
-Echo exists in the CLI fallback characters but NOT in the seed-expanded character set. Echo's canonical role as "The Main Narrator" conflicts with Tempo's "The Chronomancer." 
+Echo exists in the CLI fallback characters but NOT in the seed-expanded character set. This conflict is **resolved** by the dual-narrator model (directive BL-2026-04-28):
 
-**Question for the team:** Which is the canonical narrator? Echo or Tempo?
+- **Echo** — CLI-accessible narrator. Present-tense observer. Micro-narrative, scene-by-scene. Audio analogy: reverb/delay.
+- **Tempo** — Server-only narrator. Arc-aware omniscient. Macro-narrative, where the story is going. Audio analogy: time-stretch/tempo shift.
+
+Both are canonical. Echo handles *what is happening now*; Tempo handles *where the story is going*. For CLI simulation runs, Echo is the active narrator. For full server simulation runs with seed characters, both narrators are active simultaneously.
 
 ---
 
