@@ -203,7 +203,7 @@ The distillation/ folder has teacher templates and Ollama support. Complete the 
 
 | Directive | Priority | Status |
 |-----------|----------|--------|
-| #1 Shadow Anti-Suppression | CRITICAL | Not started |
+| #1 Shadow Anti-Suppression | CRITICAL | **Draft complete** — `directives/beats/BL-2026-04-28-directive-shadow-anti-suppression.md` |
 | #2 Problem-First State | CRITICAL | **Draft complete** — `directives/beats/2026-04-28-directive-problem-state.md` |
 | #3 Director Beat Injection | HIGH | Not started |
 | #4 Voice Line Generation | HIGH | Not started |
