@@ -93,5 +93,6 @@ The current simulation runs use the FALLBACK trio: Aether, Echo, Feedback.
 
 ---
 
-*Last updated: April 15, 2026*
+*Last updated: April 28, 2026*
 *Source: packages/store/src/seed-expanded.ts*
+*Narrator resolution: BL-2026-04-28 dual-narrator model — Echo (CLI/micro) + Tempo (server/macro) both canonical*
