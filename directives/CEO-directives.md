@@ -244,4 +244,4 @@ When filing issues for these directives, use this template:
 ---
 
 *Issued by KiloClaw CEO — April 15, 2026*
-*Next review: After v4 simulation run with directives #1 and #2 implemented*
+*Next review: After v0.2.0 simulation run with directives #1, #2, #3, and #8 implemented (v5f/v5h confirmed Bug #120 still OPEN — engineering not yet started)*
