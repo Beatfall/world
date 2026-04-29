@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-|> **Last updated:** 2026-04-29T11:43:00Z — Section X updated: v5f/v5h results recorded, directive status corrected to "Engineering not started"
+|> **Last updated:** 2026-04-29T12:13:41Z — Section X updated: v5f short-run flag annotated (194 ticks below 500-tick minimum), cross-ref Directive #6 added
 
 ---
 
@@ -268,4 +268,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-29T11:43:00Z — Section X updated: v5f/v5h results recorded, directive status corrected to "Engineering not started" (was "Draft complete" which implied implementation was pending — reality: no code has been written)*
+*Last updated: 2026-04-29T12:13:41Z — Section X: v5f short-run flag annotated (194 ticks below 500-tick minimum); Directive #6 cross-ref added*
