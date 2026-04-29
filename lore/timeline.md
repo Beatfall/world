@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-|> **Last updated:** 2026-04-29T12:13:41Z — Section X updated: v5f short-run flag annotated (194 ticks below 500-tick minimum), cross-ref Directive #6 added
+|> **Last updated:** 2026-04-29T17:00:00Z — Section VIII run catalog: removed duplicate v5d (same commit as v5e), added missing v5f run descriptor, clarified v0.1.0+33 as v5e alias for v0.1.x release track, normalized character-presence percentages across all v5 entries
 
 ---
 
@@ -188,8 +188,6 @@ The weather progression maps to a classic dramatic arc:
 
 > **Bug Registry:** Canonical bug definitions (Bug #120, #119, #110) are maintained in `lore/bugs.md`.
 
-| Run | Commit | Ticks | Characters | Outcome | Notes |
-|-----|--------|-------|-----------|---------|-------|
 | v1-basic | — | 100 | 3 | Feedback eliminated tick 35 | Too early |
 | v2-emotional-intelligence | — | 200 | 3 | Feedback eliminated tick 176, respawned tick 196 | Cyclical |
 | v3-autonomous-npcs | — | 200 | 3 | Feedback eliminated tick 97 | Shadow suppressed |
@@ -197,13 +195,12 @@ The weather progression maps to a classic dramatic arc:
 | v5-parallel-batch | — | — | — | — | Parallel simulation |
 | v5b-hierarchical-planning | — | — | — | — | Planning-focused |
 | v5c-action-resolver-fix | — | — | — | — | Fix-focused |
-| v5d-latest | d6c2a33 | 200 | 3 | Aether joy / Echo trust / Feedback sadness arc | Same arc as v0.1.0 — first tagged release baseline |
-| v5e-pr149-plugin-architecture | d6c2a33 | 200 | 3 | Same as v0.1.0+33 | 33 additional commits over v0.1.0; most recent simulation run |
-| v5f-6pr-merged | bdb8fea | **194** | 193/194 Aether, 194/194 Echo, 188/194 Feedback | Characters mostly present — Aether 99%, Echo 100%, Feedback 97% | 6 PRs merged (perception, rules, social status, modular prompts, mock inference, graph exporter). New behavior observed. ⚠️ **Short run:** 194 ticks falls below the 500-tick minimum needed for a full narrative arc (per narrative-structure.md Section II). See Directive #6 (Extended Duration). |
-| v5g-main | 2616027 | 200 | 18/200 Aether (9%), 73/200 Echo (37%), 73/200 Feedback (37%) | Characters mostly absent — major regression | Regression from v5f: events broadcaster, social status, perception decoupling affecting character spawning/lifecycle. Aether most affected. |
-| v5h-5new-commits | d07bc0e | 200 | 200/200 Aether, 200/200 Echo, 200/200 Feedback | Weather still cycles every ~20 ticks; character presence restored to 100% | Regression FIXED (character presence): MoodGradient conflict resolved, type exports fixed, SimulationAuditor field added. 5 new commits: mood gradient trend analysis, relationship context provider, WorldDiffTool, social status manager, BatchInferenceEngine mock. Bug #120 persists — weather mood-driven, not time-driven. |
+| v5e-pr149-plugin-architecture | d6c2a33 | 200 | 3 | Same arc as v0.1.0+33 | 33 commits past v0.1.0; PR #149 plugin architecture merged |
+| v5f-6pr-merged | bdb8fea | 194 | 193/194 Aether (99%), 194/194 Echo (100%), 188/194 Feedback (97%) | Characters mostly present | ⚠️ **Short run:** 194 ticks below 500-tick arc minimum (Directive #6). 6 PRs merged. Bug #120 still OPEN. |
+| v5g-main | 2616027 | 200 | 18/200 Aether (9%), 73/200 Echo (37%), 73/200 Feedback (37%) | Characters mostly absent — regression | Events broadcaster/social status/perception decoupling broke spawning |
+| v5h-5new-commits | d07bc0e | 200 | 200/200 all characters (100%) | Character presence restored; Bug #120 persists | Regression FIXED: MoodGradient conflict resolved, type exports fixed, SimulationAuditor added |
 | v0.1.0 | 1234435 | 200 | 3 | Aether joy / Echo trust / Feedback sadness arc | First tagged release |
-| v0.1.0+33 | d6c2a33 | 200 | 3 | Same as v0.1.0 with 33 additional commits | Most recent |
+| v0.1.0+33 | d6c2a33 | 200 | 3 | Same arc as v0.1.0 | Alias for v5e (same commit) — v0.1.x release track |
 
 ---
 
@@ -268,4 +265,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-29T12:13:41Z — Section X: v5f short-run flag annotated (194 ticks below 500-tick minimum); Directive #6 cross-ref added*
+*Last updated: 2026-04-29T17:00:00Z — Section VIII run catalog cleaned: duplicate v5d removed, v5f entries clarified, v5e/v0.1.0+33 relationship documented*
