@@ -1,7 +1,7 @@
 # Beatfall World — Canonical Timeline
 
 > **Source of truth:** Simulation observations take precedence over assumptions.
-|> **Last updated:** 2026-04-29T01:15:00Z — bug registry created; Section VIII cross-reference added
+|> **Last updated:** 2026-04-29T11:43:00Z — Section X updated: v5f/v5h results recorded, directive status corrected to "Engineering not started"
 
 ---
 
