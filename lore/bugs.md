@@ -108,4 +108,4 @@ v0.1.0 report: "All characters lack location data — 'unknown' for 90%+ of tick
 
 *Maintained by: World Canon Agent*
 *Source: Simulation run reports, timeline.md Section VIII*
-*Last updated: 2026-04-29T01:15:00Z*
+*Last updated: 2026-04-29T11:43:00Z — bugs.md now includes v5f (bdb8fea) and v5h (d07bc0e) in Bug #120 affected runs table; v5g (2616027) regression noted*
