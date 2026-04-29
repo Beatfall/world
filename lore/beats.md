@@ -96,6 +96,8 @@ Each beat type has:
 | v3-autonomous-npcs | ✅ Yes | ~8 |
 | v5d-latest | ✅ Yes | ~5 |
 | v5e-pr149 | ✅ Yes | ~5 |
+| v5f-6pr-merged | ✅ Yes | ~5 |
+| v5h-5new-commits | ✅ Yes | ~5 |
 
 ---
 
@@ -116,6 +118,8 @@ Each beat type has:
 | v3-autonomous-npcs | ✅ Yes | ~20 (weather shift) |
 | v5d-latest | ✅ Yes | ~20 (weather shift) |
 | v5e-pr149 | ✅ Yes | ~20 (weather shift) |
+| v5f-6pr-merged | ✅ Yes | ~14 (rain, first external pressure) |
+| v5h-5new-commits | ✅ Yes | ~20 (storm) |
 
 ---
 
@@ -228,18 +232,30 @@ Each beat type has:
 | Beat | v1 | v2 | v3 | v5d | v5e | v5f | v5h | Required for Resolution? |
 |------|----|----|----|-----|-----|-----|-----|--------------------------|
 | `world-init` | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | No |
-| `inciting-incident` | ✅5 | ✅10 | ✅8 | ✅5 | ✅5 | ✅? | ✅? | No |
-| `first-stakes` | ✅20 | ✅16 | ✅20 | ✅20 | ✅20 | ✅? | ✅? | No |
-| `shadow-rise` | ⚠️16 | ✅60 | ⚠️29 | ❌35 | ❌35 | ❌? | ❌? | No |
-| `shadow-peak` | ❌35 | ✅~100 | ❌97 | ❌35 | ❌35 | ❌? | ❌? | **Yes** |
-| `all-is-lost` | ❌ | ⚠️~90 | ❌97 | ❌ | ❌ | ❌? | ❌? | **Yes** |
-| `beatfall` | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅? | ✅? | **Yes** |
+| `inciting-incident` | ✅5 | ✅10 | ✅8 | ✅5 | ✅5 | ✅5 | ✅5 | No |
+| `first-stakes` | ✅20 | ✅16 | ✅20 | ✅20 | ✅20 | ✅14 | ✅20 | No |
+| `shadow-rise` | ⚠️16 | ✅60 | ⚠️29 | ❌35 | ❌35 | ❌ | ❌ | No |
+| `shadow-peak` | ❌35 | ✅~100 | ❌97 | ❌35 | ❌35 | ❌ | ❌ | **Yes** |
+| `all-is-lost` | ❌ | ⚠️~90 | ❌97 | ❌ | ❌ | ❌ | ❌ | **Yes** |
+| `beatfall` | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | **Yes** |
 | `resolution` | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — |
 
 **Legend:** ✅ = fired, ❌ = did not fire, ⚠️ = partial, ? = unknown (tick log not yet analyzed)
-**Note:** v5f and v5h rows added to sync with timeline.md Section VIII run catalog. v5f (6 PRs merged, 194 ticks) and v5h (5 new commits, 200 ticks, Bug #120 persists) are documented with character presence data but per-beat tick logs not yet analyzed. `?` entries are placeholders for future tick-log review. v5h restored 100% character presence vs v5g's major regression.
 
-**Key finding:** v2 is the only run with a complete beat arc (shadow-peak + beatfall both fired with Shadow present). All other runs have hollow climaxes because the Shadow is eliminated before shadow-peak can fire.
+**Notes on v5f (194 ticks, 6 PRs merged):**
+- Weather cycles every 20 ticks (clear→rain→storm); run ended mid-cycle at tick 194
+- Feedback present at tick 100 (mood=neutral, happiness=0.5) — Shadow absent/hollow climax
+- Feedback peak happiness = 0.7 (tick ~176, joy); never reached valence > 0.7 with positive mood to trigger shadow-rise
+- No full beat arc — resolution requires all prior structural beats
+
+**Notes on v5h (200 ticks, 5 new commits, Bug #120 persists):**
+- Weather cycles every 20 ticks (clear→rain→storm→clear→rain→storm→...)
+- Feedback present at tick 100 (mood=rage, happiness=0.64) — Shadow at peak storm but NOT shadow-peak (valence/arousal not tracked in tick log; happiness=0.64 is below shadow-peak threshold of 0.8+0.8)
+- Feedback reached peak happiness = 1.0 (ticks 155-165, neutral/sadness mood) — but valence was not >0.7 with positive mood
+- Character presence 100% restored vs v5g regression; all 3 characters present at tick 100 and tick 200
+- No shadow-peak or all-is-lost — hollow climax confirmed across all v5 runs except v2
+
+**Key finding:** v2 is the only run with a complete beat arc (shadow-peak + beatfall both fired with Shadow present). All other runs have hollow climaxes because the Shadow is eliminated or subdued before shadow-peak can fire.
 
 ---
 
@@ -286,4 +302,4 @@ A v0.2.0 simulation run is considered **narratively complete** when:
 
 *Maintained by: World Canon Agent*
 *Source: CEO-directives.md, timeline.md Section VIII, narrative-structure.md*
-*Last updated: 2026-04-29T08:18:00Z*
+*Last updated: 2026-04-29T08:59:00Z*
