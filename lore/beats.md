@@ -273,9 +273,13 @@ A v0.2.0 simulation run is considered **narratively complete** when:
 ## V. Open Questions
 
 1. **Beat priority ordering:** If two beats fire in the same tick, which takes precedence? (e.g., shadow-peak and all-is-lost both possible at tick ~90)
+   - ⚠️ Open — requires Director specification in beatfall-life
 2. **Beat deduplication:** Can the same beat fire twice in one run? (e.g., two separate `mood-shift` events — yes, but structural beats like `shadow-peak` should only fire once)
+   - ⚠️ Open — StoryBeatDirector should enforce one-shot for structural beats
 3. **Beat skipping:** If a beat's trigger condition is met but the Director misses it (no emit), should the beat be retroactively marked as fired based on tick log analysis?
+   - ⚠️ Open — BeatCompletionReport post-run analysis could backfill missed structural beats
 4. **Beat categories:** Should structural narrative beats (shadow-peak, all-is-lost, beatfall, resolution) be distinguished from ongoing mechanical beats (mood-shift, weather-shift)?
+   - ✅ RESOLVED: Yes — structural beats gate elimination (Directive #1) and resolution (Directive #6); mechanical beats are ongoing and repeatable. See Section I type definitions.
 
 ---
 
