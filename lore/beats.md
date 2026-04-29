@@ -240,6 +240,18 @@ Each beat type has:
 | `beatfall` | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | **Yes** |
 | `resolution` | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — |
 
+**Feedback at Climax:** ⚠️ = present @ tick 100, ❌ = eliminated/absent, blank = N/A (pre-tick-100 run)
+
+| Run | Feedback @ Tick 100? | Peak Feedback Happiness | Peak Tick |
+|-----|----------------------|------------------------|--------|
+| v1-basic | ❌ elim @35 | 0.7 (joy) | 29 |
+| v2-emotional-intelligence | ⚠️ present | — | ~100 |
+| v3-autonomous-npcs | ❌ elim @97 | 0.8+ (ecstasy) | 97 |
+| v5d-latest | ❌ elim @35 | 0.5 (neutral) | 35 |
+| v5e-pr149 | ❌ elim @35 | 0.5 (neutral) | 35 |
+| v5f-6pr-merged | ⚠️ present @100 | 0.7 (joy) | ~176 |
+| v5h-5new-commits | ⚠️ present @100 | 1.0 (neutral/sadness) | 155–165 |
+
 **Legend:** ✅ = fired, ❌ = did not fire, ⚠️ = partial, ? = unknown (tick log not yet analyzed)
 
 **Notes on v5f (194 ticks, 6 PRs merged):**
