@@ -225,18 +225,19 @@ Each beat type has:
 
 ## II. Beat Completion Matrix
 
-| Beat | v1 | v2 | v3 | v5d | v5e | Required for Resolution? |
-|------|----|----|----|-----|-----|--------------------------|
-| `world-init` | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | No |
-| `inciting-incident` | ✅5 | ✅10 | ✅8 | ✅5 | ✅5 | No |
-| `first-stakes` | ✅20 | ✅16 | ✅20 | ✅20 | ✅20 | No |
-| `shadow-rise` | ⚠️16 | ✅60 | ⚠️29 | ❌35 | ❌35 | No |
-| `shadow-peak` | ❌35 | ✅~100 | ❌97 | ❌35 | ❌35 | **Yes** |
-| `all-is-lost` | ❌ | ⚠️~90 | ❌97 | ❌ | ❌ | **Yes** |
-| `beatfall` | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | **Yes** |
-| `resolution` | ❌ | ❌ | ❌ | ❌ | ❌ | — |
+| Beat | v1 | v2 | v3 | v5d | v5e | v5f | v5h | Required for Resolution? |
+|------|----|----|----|-----|-----|-----|-----|--------------------------|
+| `world-init` | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | ✅1 | No |
+| `inciting-incident` | ✅5 | ✅10 | ✅8 | ✅5 | ✅5 | ✅? | ✅? | No |
+| `first-stakes` | ✅20 | ✅16 | ✅20 | ✅20 | ✅20 | ✅? | ✅? | No |
+| `shadow-rise` | ⚠️16 | ✅60 | ⚠️29 | ❌35 | ❌35 | ❌? | ❌? | No |
+| `shadow-peak` | ❌35 | ✅~100 | ❌97 | ❌35 | ❌35 | ❌? | ❌? | **Yes** |
+| `all-is-lost` | ❌ | ⚠️~90 | ❌97 | ❌ | ❌ | ❌? | ❌? | **Yes** |
+| `beatfall` | ✅100 | ✅100 | ✅100 | ✅100 | ✅100 | ✅? | ✅? | **Yes** |
+| `resolution` | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — |
 
-**Legend:** ✅ = fired, ❌ = did not fire, ⚠️ = partial (reached condition but context wrong)
+**Legend:** ✅ = fired, ❌ = did not fire, ⚠️ = partial, ? = unknown (tick log not yet analyzed)
+**Note:** v5f and v5h rows added to sync with timeline.md Section VIII run catalog. v5f (6 PRs merged, 194 ticks) and v5h (5 new commits, 200 ticks, Bug #120 persists) are documented with character presence data but per-beat tick logs not yet analyzed. `?` entries are placeholders for future tick-log review. v5h restored 100% character presence vs v5g's major regression.
 
 **Key finding:** v2 is the only run with a complete beat arc (shadow-peak + beatfall both fired with Shadow present). All other runs have hollow climaxes because the Shadow is eliminated before shadow-peak can fire.
 
@@ -285,4 +286,4 @@ A v0.2.0 simulation run is considered **narratively complete** when:
 
 *Maintained by: World Canon Agent*
 *Source: CEO-directives.md, timeline.md Section VIII, narrative-structure.md*
-*Last updated: 2026-04-30T05:15:00Z*
+*Last updated: 2026-04-29T08:18:00Z*
