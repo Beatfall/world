@@ -231,28 +231,41 @@ These events are referenced in the narrative but have no confirmed tick:
 ## X. Directive Implementation Tracking
 
 > **Purpose:** Track which CEO directives are targeted for the next simulation run and their current engineering status.
-> **Last updated:** 2026-04-28
+> **Last updated:** 2026-04-29T11:43:00Z — v5f/v5h runs confirmed Bug #120 still OPEN in all v5 variants; no directive implemented yet
+
+### v5f/v5h Simulation Run Results
+
+v5f (bdb8fea, 194 ticks, 6 PRs merged) and v5h (d07bc0e, 200 ticks, 5 new commits) were completed after CEO-directives were drafted. Neither run had any CEO directive implemented. Results:
+
+|| Run | Bug #120 Status | Feedback Peak | Shadow-Peak Beat | All-Is-Lost Beat |
+||-----|-----------------|---------------|-----------------|-----------------|
+|| v5f-6pr-merged | 🐛 Still OPEN | tick ~29 (ecstasy), eliminated ~tick 35 | ❌ Did not fire | ❌ Did not fire |
+|| v5h-5new-commits | 🐛 Still OPEN | Same pattern | ❌ Did not fire | ❌ Did not fire |
+|| v2-emotional-intelligence | ✅ Fixed | tick ~100 (peak before climax) | ✅ Firing | ✅ Firing |
+
+**Conclusion:** v2 was the only run where the Shadow arc completed properly. The v5 generation reverted to the v0.1.0 bug pattern. Engineering implementation of directives has not begun.
 
 ### For Next Simulation Run (v0.2.0 Target)
 
-| Directive | Priority | Status | Key Spec | Owner | File | Commit |
-|-----------|----------|--------|----------|-------|------|--------|
-| #1 Shadow Anti-Suppression | CRITICAL | Draft complete | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life | `directives/beats/BL-2026-04-28-directive-shadow-anti-suppression.md` | `0b4d5d0` |
-| #2 Problem-First State | CRITICAL | Draft complete | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life | `directives/beats/2026-04-28-directive-problem-state.md` | `9176681` |
-| #3 Director Beat Injection | HIGH | Draft complete | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life | `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` | `9bf60cc` |
-| #8 Beat Completion Report | MEDIUM | Draft complete | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life | `directives/beats/2026-04-28-directive-beat-completion-report.md` | `see CEO-directives` |
+|| Directive | Priority | Status | Key Spec | Owner | File | Commit |
+||-----------|----------|--------|----------|-------|------|--------|
+|| #1 Shadow Anti-Suppression | CRITICAL | **Engineering not started** | `shadowPeakFired` flag in StoryBeatDirector; `canEliminateCharacter()` gate in CharacterManager | beatfall-life | `directives/beats/BL-2026-04-28-directive-shadow-anti-suppression.md` | `0b4d5d0` |
+|| #2 Problem-First State | CRITICAL | **Engineering not started** | `ProblemState` interface; mood-as-consequence in MentalModelEngine | beatfall-life | `directives/beats/2026-04-28-directive-problem-state.md` | `9176681` |
+|| #3 Director Beat Injection | HIGH | **Engineering not started** | `DirectorBeatType` events on event bus; `--director` CLI flag; beat effects on character mental models | beatfall-life | `directives/beats/BL-2026-04-28-directive-director-beat-injection.md` | `9bf60cc` |
+|| #8 Beat Completion Report | MEDIUM | **Engineering not started** | `BeatRegistry`; `SimulationRecord.beats[]`; `BeatCompletionReport.ts`; WorldSnapshot field | beatfall-life | `directives/beats/2026-04-28-directive-beat-completion-report.md` | `see CEO-directives` |
 
-**Draft complete:** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata — `directives/CEO-directives.md#directive-7-simulation-run-metadata`)
+**Draft complete (no engineering):** #4 (Voice Lines), #5 (Echo Observation Logging), #6 (Extended Duration), #7 (Run Metadata)
 
-### Verification Criterion for v0.2.0
+### v0.2.0 Verification Criteria
 All four targeted directives must show:
-- ✅ Feedback present at tick 100 (no premature elimination)
-- ✅ Director beat events visible in tick output (beat-firing log)
-- ✅ Beat completion report generated post-run
-- ✅ Character problem states logged instead of raw mood only
+- ✅ Feedback present at tick 100 (no premature elimination) — **criterion: compare against v2 run (tick ~100 peak, Shadow present at climax)**
+- ✅ `shadow-peak` beat fires before Feedback's peak — **criterion: beat registry shows `shadow-peak@tick-N` where N < Feedback peak tick**
+- ✅ `all-is-lost` beat fires — **criterion: beat registry shows `all-is-lost@tick-N`**
+- ✅ Beat completion report generated post-run — **criterion: run output includes `BEAT COMPLETION REPORT` section**
+- ✅ Character problem states logged — **criterion: tick snapshots include `character.problem` field, not just `mood`**
 
 ---
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-29T01:15:00Z*
+*Last updated: 2026-04-29T11:43:00Z — Section X updated: v5f/v5h results recorded, directive status corrected to "Engineering not started" (was "Draft complete" which implied implementation was pending — reality: no code has been written)*
