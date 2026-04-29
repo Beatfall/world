@@ -217,7 +217,8 @@ These events are referenced in the narrative but have no confirmed tick:
 5. **The 24-hour cycle** — What happens after tick 1440? Does the world reset?
 6. **Seasonal shift** — Seasons are defined but never observed. When does spring → summer occur?
 7. **All-is-lost beat** — When should the "all is lost" moment fire in a properly structured simulation?
-   - ⚠️ Per narrative-structure.md: should fire at tick ~90–95 in a 100-tick run, just before climax. In v0.1.0 it did NOT fire because Shadow was already gone. See Section IX.
+   - ✅ **Canonized per narrative-structure.md Section II:** In a 100-tick run: fires at tick ~90–95 (5–10 ticks before climax at tick 100, Act III threshold at tick 75). In a 500-tick run: fires at tick ~375 (Act III begins at tick 376). In v0.1.0 it did NOT fire because Shadow was already gone at tick 35. See Section IX.
+   - **Note:** The 3-act model places the all-is-lost beat in the final 5–10% of Act II, just before the Act III climax. v0.1.0, v5f, and v5h all lack this beat due to Bug #120.
 8. **Resolution** — What does a proper resolution look like? Has any simulation ever reached it?
    - ❌ No simulation has reached resolution. Bug #120 (premature Shadow elimination) blocks the complete narrative arc.
 
@@ -265,4 +266,4 @@ All four targeted directives must show:
 
 *Maintained by: World Canon Agent*
 *Source: Simulation observations from beatfall-life*
-*Last updated: 2026-04-29T17:00:00Z — Section VIII run catalog cleaned: duplicate v5d removed, v5f entries clarified, v5e/v0.1.0+33 relationship documented*
+*Last updated: 2026-04-29T18:12:00Z — Section IX item 7 canonized: all-is-lost fires tick ~90–95 (100-tick run) or ~375 (500-tick run) per 3-act structure*
